@@ -70,7 +70,7 @@ Wanna quickly see the mobile ad on your simulator or device? Try the following c
     # Demo 1: run admob demo with sample index.html
     plugin-verify cordova-plugin-admobpro
 
-    Use this if your target is iOS:
+    # Use this if your target is iOS:
     [sudo] plugin-verify cordova-plugin-admobpro ios
 
     # Demo 2/3: run admob demo in game powered by PIXI/phaser HTML5 engine
